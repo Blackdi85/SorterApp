@@ -1,0 +1,5 @@
+/Users/dmitriy/Projects/SortingApp/SortingApp/bin/Debug/SortingApp.exe
+/Users/dmitriy/Projects/SortingApp/SortingApp/bin/Debug/SortingApp.pdb
+/Users/dmitriy/Projects/SortingApp/SortingApp/obj/x86/Debug/SortingApp.csproj.CoreCompileInputs.cache
+/Users/dmitriy/Projects/SortingApp/SortingApp/obj/x86/Debug/SortingApp.exe
+/Users/dmitriy/Projects/SortingApp/SortingApp/obj/x86/Debug/SortingApp.pdb

@@ -1,0 +1,11 @@
+/Users/dmitriy/Projects/SortingApp/HumanClassTests/bin/Debug/HumanClassTests.dll
+/Users/dmitriy/Projects/SortingApp/HumanClassTests/bin/Debug/HumanClassTests.pdb
+/Users/dmitriy/Projects/SortingApp/HumanClassTests/bin/Debug/nunit.framework.dll
+/Users/dmitriy/Projects/SortingApp/HumanClassTests/bin/Debug/SortingApp.exe
+/Users/dmitriy/Projects/SortingApp/HumanClassTests/bin/Debug/SortingApp.pdb
+/Users/dmitriy/Projects/SortingApp/HumanClassTests/bin/Debug/nunit.framework.xml
+/Users/dmitriy/Projects/SortingApp/HumanClassTests/obj/Debug/HumanClassTests.csprojAssemblyReference.cache
+/Users/dmitriy/Projects/SortingApp/HumanClassTests/obj/Debug/HumanClassTests.csproj.CoreCompileInputs.cache
+/Users/dmitriy/Projects/SortingApp/HumanClassTests/obj/Debug/HumanClassTests.csproj.CopyComplete
+/Users/dmitriy/Projects/SortingApp/HumanClassTests/obj/Debug/HumanClassTests.dll
+/Users/dmitriy/Projects/SortingApp/HumanClassTests/obj/Debug/HumanClassTests.pdb
